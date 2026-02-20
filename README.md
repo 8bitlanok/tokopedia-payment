@@ -46,7 +46,8 @@
     <p>Kami tidak pernah mengirim rekening berbeda melalui chat.</p>
 
     <div class="logo">
-        <img src="logo.png" alt="Logo Tokopedia">
+        <img src="vecteezy_tokopedia-logo-free-tokopedia-logo-download_54650845.png
+" alt="Logo Tokopedia">
     </div>
 </div>
 
