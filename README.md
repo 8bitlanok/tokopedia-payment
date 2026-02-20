@@ -47,7 +47,7 @@
 
     <div class="logo">
         <img src="vecteezy_tokopedia-logo-free-tokopedia-logo-download_54650845.png
-" alt="Logo Tokopedia">
+ alt="Logo Tokopedia">
     </div>
 </div>
 
