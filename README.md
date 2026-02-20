@@ -44,12 +44,14 @@
     <hr>
     <p>Pembayaran hanya ke rekening di halaman ini.</p>
     <p>Kami tidak pernah mengirim rekening berbeda melalui chat.</p>
-
-    <div class="logo">
-        <img src="vecteezy_tokopedia-logo-free-tokopedia-logo-download_54650845.png
- 
     </div>
-</div>
+
+
+   <div class="logo">
+   <img src="memek.png" alt="toko pedia">
+ </div>
+
+
 
 </body>
 </html>
