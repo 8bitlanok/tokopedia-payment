@@ -39,8 +39,8 @@
 <div class="card">
     <h2>Rekening Resmi Pembayaran</h2>
     <p><strong>Bank:</strong> BCA</p>
-    <p><strong>Atas Nama:</strong> PT TOKO ANDA</p>
-    <p><strong>No Rekening:</strong> 1234567890</p>
+    <p><strong>Atas Nama:</strong> kukukuntul</p>
+    <p><strong>No Rekening:</strong> anyingggg</p>
     <hr>
     <p>Pembayaran hanya ke rekening di halaman ini.</p>
     <p>Kami tidak pernah mengirim rekening berbeda melalui chat.</p>
